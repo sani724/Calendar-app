@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Sprint Planning",
+    "date": "2025-11-03",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "color": "#1f8eed"
+  },
+  {
+    "id": "2",
+    "title": "Design Review",
+    "date": "2025-11-03",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "3",
+    "title": "1:1 with P",
+    "date": "2025-11-05",
+    "startTime": "09:30",
+    "endTime": "10:00",
+    "color": "#10b981"
+  },
+  {
+    "id": "4",
+    "title": "All Hands",
+    "date": "2025-11-14",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "color": "#ef4444"
+  },
+  {
+    "id": "5",
+    "title": "Deploy",
+    "date": "2025-11-30",
+    "startTime": "22:00",
+    "endTime": "22:30",
+    "color": "#6b21a8"
+  },
+  {
+    "id": "6",
+    "title": "Too Many Events",
+    "date": "2025-11-03",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#6b7280"
+  }
+]
