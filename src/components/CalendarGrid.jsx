@@ -11,7 +11,6 @@ export default function CalendarGrid({ currentDate }) {
 
   return (
     <div className="calendar-wrap">
-      {/* day header row */}
       <div className="weekday-row">
         {dayNames.map((d) => (
           <div key={d} className="weekday-cell">
@@ -20,7 +19,6 @@ export default function CalendarGrid({ currentDate }) {
         ))}
       </div>
 
-      {/* days grid */}
       <div className="days-grid" role="grid">
         {days.map((day) => {
           const dayEvents = events.filter((e) => isSameDay(parseISO(e.date), day));
